@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ### Java template
+=======
+>>>>>>> ef1f72a6b5c748f61a88dede6ad29f45e7d9c079
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -11,5 +14,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 # Created by .ignore support plugin (hsz.mobi)
+=======
+>>>>>>> ef1f72a6b5c748f61a88dede6ad29f45e7d9c079
