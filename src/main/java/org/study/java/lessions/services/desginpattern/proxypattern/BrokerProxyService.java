@@ -4,6 +4,7 @@ package org.study.java.lessions.services.desginpattern.proxypattern;
  * Created by wangzh on 2016/4/21.
  * Description:
  */
+
 public class BrokerProxyService implements HouseSale {
 
     //被代理的对象；

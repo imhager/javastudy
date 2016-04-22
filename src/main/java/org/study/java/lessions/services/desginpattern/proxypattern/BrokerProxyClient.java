@@ -13,6 +13,10 @@ public class BrokerProxyClient {
          */
         HouseSale service = new BrokerProxyService();
 
+        // TODO 依然可以new到一个真实目标对象的实例，如何控制权限呢？
+        HouseSale houseSale = new HouseMasterService();
+        //houseSale.sale();
+
         service.sale();
 
         System.out.println("============");
